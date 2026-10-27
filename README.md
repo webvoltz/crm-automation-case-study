@@ -124,7 +124,7 @@ Known limits are listed openly in [Reliability and security](RELIABILITY-AND-SEC
 │   ├── pipeline/                    Business Search → contact + opportunity
 │   └── db/                          the tables behind it
 ├── assets/                          diagrams, banner, brand
-└── video/                           four videos with scripts and storyboards
+└── video/                           showcase video, script and thumbnail
 ```
 
 ---
@@ -150,12 +150,6 @@ A 73-second look at what Webvoltz builds: the everyday mess of missed follow-ups
 <p align="center"><a href="video/crm-showcase.mp4"><img src="video/crm-showcase-thumbnail.png" alt="Play the video: CRM automation, built for your business" width="100%"></a></p>
 
 <p align="center"><a href="video/crm-showcase.mp4">Watch the video (1:13, 1080p)</a></p>
-
-**More videos in [`video/`](video):**
-
-- [`product-demo.mp4`](video/product-demo.mp4) (1:23): a software walkthrough of this project: the front-desk prompt, the Review Requests dashboard, how the request flows to GoHighLevel, the job queue, the workflow and the webhook loop. [Script](video/product-demo-script.md) · [storyboard](video/product-demo-storyboard.md).
-- [`walkthrough.mp4`](video/walkthrough.mp4) (1:29): a 3D product film of the same system. [Script](video/script.md) · [storyboard](video/storyboard.md).
-- [`walkthrough-v1.mp4`](video/walkthrough-v1.mp4) (0:55): the first, shorter cut.
 
 ---
 
